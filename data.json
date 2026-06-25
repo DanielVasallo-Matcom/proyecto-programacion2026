@@ -1,0 +1,9 @@
+[
+    {
+        "asignatura": "Programacion",
+        "inicio": "08:00",
+        "fin": "10:00",
+        "profesor": "Laura",
+        "aula": "Laboratorio"
+    }
+]
